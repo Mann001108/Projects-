@@ -9,4 +9,4 @@ create the database for medical managament.
 ###Create the dashboard for the grocery store 
 This dashboard shows based on the data of the grocery store 
 It shows the sales Growth, Customer segmentation and Market basket analysis 
-[Link to Detailed Report] 
+[Link to Detailed Report] [https://github.com/Mann001108/Projects-/blob/main/Report%20On%20Aatre%20Falam.pdf]
