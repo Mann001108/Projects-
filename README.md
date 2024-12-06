@@ -10,3 +10,7 @@ create the database for medical managament.
 This dashboard shows based on the data of the grocery store 
 It shows the sales Growth, Customer segmentation and Market basket analysis 
 [Link to Detailed Report] [https://github.com/Mann001108/Projects-/blob/main/Report%20On%20Aatre%20Falam.pdf]
+
+###Cloud Architecture for the Manufacturing of steel business
+This project shows the cloud architecture for steel business 
+It has Data flow and architecture and pipeline stratergy
